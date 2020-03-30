@@ -1,13 +1,9 @@
 {
   "name": "broker-bovespa",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Bruno Marini <bruno.marini1@gmail.com>",
+  "repository": "git@github.com:TheMarini/broker-bovespa.git",
+  "license": "MIT",
   "dependencies": {
     "amqplib": "^0.5.5",
     "moment": "^2.24.0"
