@@ -1,6 +1,6 @@
 # Broker - Bovespa
 ## :ledger: Documentation
-- Main documentation - with class diagram, component diagram and a description about each operation - on [this file](https://github.com/TheMarini/broker-bovespa/blob/master/docs/documentation.pdf) (PT-BR).
+- Main documentation - with class diagram, component diagram and a description about each operation - on [this file](https://github.com/TheMarini/broker-bovespa/blob/master/docs/documentacao.pdf) (PT-BR).
 - Project proposal and why it exists on [this file](https://github.com/TheMarini/broker-bovespa/blob/master/docs/proposta.pdf) (PT-BR).
 ## :fire: Installation
 By default, this project uses [NPM](https://www.npmjs.com) as depedency/package management.
