@@ -20,7 +20,7 @@ npm install
    ```
    node ./broker_receive_logs_topic.js "#"
    ```
-3. Examples (another terminal):
+3. Examples (in another terminal):
    - 3.1. PETR4 buy:
    ```
    node ./broker_emit_log_topic.js compra.petr4 "{\"quant\": 100, \"val\": 500, \"corretora\": \"brok1\"}"
