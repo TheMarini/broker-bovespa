@@ -8,7 +8,7 @@ By default, this project uses [NPM](https://www.npmjs.com) as depedency/package 
 npm install
 ```
 2. Run:
-   - 2.1. RabbitMQ docker container:
+   - 2.1. Terminal 1 - RabbitMQ docker container:
    ```
    docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
    ```
